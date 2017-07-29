@@ -39,8 +39,7 @@
                     <h3 class="parceiro">Contato</h3>
                     <address>
                         <strong >Viaje com a BestBSTour | Ronaldo Nunes Dias</strong><br />
-                                            AVENIDA CÉSAR CALS, 876<br />
-                                                                Praia do Futuro, Brasilia, DF<br />
+                                            Quadra 6 conjunto A Bloco E sala 1024 Ed Brasil XXI, Brasilia, DF<br />
                                                                 CNPJ: 25.178.395.0001-48 <br/>
                                                                 CEP:70322915 <br/>
                                                                 <abbr title="OI"><img src="images/phone-icon.png" alt=""></abbr> (61)99188-5709<br/>
