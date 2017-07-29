@@ -1,0 +1,86 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+#nav{
+    background-color: #009bd6;
+    border-color: #009bd6;
+}
+    #nav ul li a{
+        color: #fff;
+    }
+
+.slide-image {
+    width: 100%;
+}
+
+.legend-slide{
+    font-size: 29px;
+    font-family: 'Francois One', sans-serif;
+    text-align: left;
+    margin-top: -270px;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption-title{
+    font-family: 'Francois One', sans-serif;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+a{
+    color: #8ace68;
+}
+    a:hover{
+        text-decoration: none;
+        color: #7bb160;
+    }
+.btn{
+    margin-left: 180px;
+    margin-bottom: 5px;
+    background-color: #009bd6; 
+    color: #fff;
+}
+.btn:hover{
+    background-color: #11B7F6;
+    color: #fff;   
+}
+
+.parceiro{
+    font-family: 'Francois One', sans-serif;
+    color: #8ace68;
+}
