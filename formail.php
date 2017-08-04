@@ -47,7 +47,7 @@ else{
 
 //mail ("seuendereço@seuservidor.com.br ","nome","string message", "string additional_headers");
 
-mail ("claudionts@gmail.com","$assunto","Nome:$nome\n Email:$email\n Mensagem:$mensagem \n\n ...::: BestBSTour ® :::...","From:$nome<$email>");
+mail ("bestbsbtour@gmail.com","$assunto","Nome:$nome\n Email:$email\n Mensagem:$mensagem \n\n ...::: BestBSTour ® :::...","From:$nome<$email>");
 
 echo"ok";
 exit();

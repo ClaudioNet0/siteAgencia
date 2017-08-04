@@ -43,6 +43,7 @@
                                                                 CNPJ: 25.178.395.0001-48 <br/>
                                                                 CEP:70322915 <br/>
                                                                 <abbr title="OI"><img src="images/phone-icon.png" alt=""></abbr> (61)99188-5709<br/>
+                                                                <abbr title="OI"><img src="images/phone-icon.png" alt=""></abbr> (61)99606-9700<br/>
                     </address>
                 </div>
             </div>

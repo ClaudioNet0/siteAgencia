@@ -83,7 +83,6 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
 
             </div>
@@ -97,7 +96,18 @@
             <h4 class="parceiro col-lg-9 col-lg-offset-3">Confira também aluguel de veículos!</h4>
             <div class="col-lg-9 col-lg-offset-3">
                 <a href="http://www.hertz-int.com.br/Iframe/Default.aspx?IdUser=11982">
-                    <img src="images/parceiro.png" alt="">
+                    <img src="images/parceiro.png" alt="oferta">
+                </a>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <div class="container" style="margin-top:7px">
+        <div class="row ">
+            <h4 class="parceiro col-lg-9 col-lg-offset-3">Adquire já sua estadia e seus ingressos em um só lugar!</h4>
+            <div class="col-lg-9 col-lg-offset-3">
+                <a href="https://bestbsbtour.minhaviagem.com.br/hotel/home/">
+                    <img style="border-radius: 5px" src="images/combo.jpg" alt="oferta">
                 </a>
             </div>
         </div>

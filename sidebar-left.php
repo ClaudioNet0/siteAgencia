@@ -6,6 +6,10 @@
             <div class="col-md-3">
                 <img src="images/logo.png" style="margin-bottom: 5px;" alt="bestbsbtour">
                 <div class="list-group">
+                    <a href="https://bestbsbtour.minhaviagem.com.br/customer/account/login/" class="list-group-item">
+                        
+                        <img src="images/user-icon.png" alt="Entre"> <span class="caption-title" >Logar</span>
+                    </a>
                     <a href="https://www.facebook.com/Bestbsbtourcom-494293940724099/" class="list-group-item">
                         <img src="images/icon-facebook.png" alt="facebook"> <span class="caption-title" >Siga-nos</span>
                     </a>
@@ -56,4 +60,5 @@
                     </div>
                     <!--Fim Modal-->
                 </div>
+                <a href="https://bestbsbtour.minhaviagem.com.br"/><img src="images/ingresso.jpg" style="width: 262.5px; border-radius: 8px;float: left;position: absolute;" alt="ingresso"></a>
             </div>
