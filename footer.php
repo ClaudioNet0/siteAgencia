@@ -49,7 +49,7 @@
             </div>
             <div style="margin-top: 10px">
                 <p class="pull-right"><a href="#">Voltar ao Topo</a></p>
-                <p>&copy; 2017 Viaje com a BestBSTour | Ronaldo Nunes Dias &middot; Desenvolvido por <a href="http://@emagine.com.br">Emagine</a></p>
+                <p>&copy; <?php echo date('Y'); ?> Viaje com a BestBSTour | Ronaldo Nunes Dias &middot; Desenvolvido por <a href="http://@emagine.com.br">Emagine</a></p>
             </div>
         </div>
     </div>
