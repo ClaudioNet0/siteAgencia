@@ -7,6 +7,9 @@
                         <img class="img-thumbnail pull-left" src="images/logo-icon.png" style="width: 100px; height: auto; margin-right: 10px" >
                     </a>
                     <div style="padding: 10px 0px">Acesse nosso site e confira todas as ofertas de pacotes de viagens, seguros, passagens aéreas e aluguel de automóveis. Confira nossas ofertas, e promoções!</div>
+		    <a href="http://www.goaffinity.com.br/BESTBSB">
+                        <img class="img-thumbnail pull-left" src="images/logoAffinity.png" style="width: 300px; height: auto; margin-right: 10px" >
+                    </a>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <h3 class="parceiro">Fale Conosco!</h3>
